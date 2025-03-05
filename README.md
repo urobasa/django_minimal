@@ -12,7 +12,3 @@
 - созданы модели
 - созданы миграции
 
-Username: superadmin
-Email address: admin@mail.ru
-Password: Qweasdzxc1251
-
